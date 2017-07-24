@@ -63,12 +63,6 @@ const config = {
                 sourceMap: IS_DEV
               }
             }, {
-              loader: 'px2rem-loader',
-              options: {
-                remUnit: 75,
-                remPrecision: 8,
-              }
-            }, {
               loader: 'less-loader',
               options: {
                 sourceMap: IS_DEV
