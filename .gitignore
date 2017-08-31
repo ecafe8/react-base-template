@@ -3,6 +3,5 @@ npm-debug.log
 .DS_Store
 dist
 build
-public
 .idea
 _files

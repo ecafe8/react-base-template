@@ -6,6 +6,6 @@ module.exports = (config) => {
     alias: {
       components: path.resolve(process.cwd(), './src') + '/components',
     }
-  }
+  };
   return config;
 };
